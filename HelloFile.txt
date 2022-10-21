@@ -1,1 +1,2 @@
 Hello Git.
+Folder in another location.
